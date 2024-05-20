@@ -2,15 +2,6 @@ NOTE: please upload the required dataset to your notebook and paste the exact pa
 code to load the dataset to run the model properly.
 
 
-# intelunnati_AshutoshJha
-TOPIC - CONQUERING FASHION MNIST WITH CNNs USING COMPUTER VISION
-TEAM NAME - Ashutosh Jha
-MEMBER - Ashutosh Jha
-REGISTRATION NUMBER - 210907370
-COLLEGE - MANIPAL INSTITUTE OF TECHNOLOGY (MAHE)
-SUBMISSION DATE – 15/07/2023
-
-
 ### Technical Description of the Project
 
 This project involves the development and implementation of a Convolutional Neural Network (CNN) to classify images from the Fashion MNIST dataset. The Fashion MNIST dataset contains 70,000 grayscale images of 28x28 pixels each, with 10 different classes representing various types of clothing items.
